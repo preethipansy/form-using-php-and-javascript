@@ -1,0 +1,400 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    position: relative;
+width: 1236.58px;
+height: 650.37px;
+background:#FF0A62;
+}
+.parent{
+    position: absolute;
+width: 504px;
+height: 524px;
+left: 89px;
+top: 56px;
+background: rgba(0, 0, 0, 0.63);
+border-radius: 45px;
+display: block;
+}
+.parent:hover{
+    background-color: black;
+   
+}
+.displayparent{
+    position: absolute;
+width: 504px;
+height: 524px;
+left: 131px;
+top: 44px;
+
+background: rgba(0, 0, 0, 0.39);
+border-radius: 45px;
+display: block;
+}
+.displayparent:hover{
+    background-color: black;
+    
+}
+.image{
+    position: absolute;
+width: 567px;
+height: 361px;
+left: 761px;
+top: 207px;
+border-radius: 36px;
+}
+.form{
+    position: absolute;
+width: 106px;
+height: 59px;
+left: 221px;
+top: 28px;
+
+font-family: Poppins;
+font-style: bold;
+font-weight: bold;
+font-size: 39px;
+line-height: 42px;
+color: white;
+}
+.name{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 81px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color:  white;
+}
+.age{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 128px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: white;
+
+}
+.gender{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 175px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color:  white;
+
+}
+.ten{
+    position: absolute;
+    width: 129px;
+    height: 25px;
+    left: 131px;
+    top: 222px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    
+    color:  white;
+}
+.twelve{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 269px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: white;
+
+}
+.degree{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 316px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: white;
+
+}
+.native{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 363px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: white;
+}
+.marriage{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 410px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: white;
+
+}
+.hobby{
+    position: absolute;
+width: 129px;
+height: 25px;
+left: 131px;
+top: 457px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: white;
+
+}
+#name1{
+    position: absolute;
+width: 192px;
+height: 21px;
+left: 288px;
+top: 81px;
+
+background: white;
+}
+#age1{
+    position: absolute;
+width: 192px;
+height: 25px;
+left: 288px;
+top: 128px;
+
+background: white;
+}
+#ten1{
+    position: absolute;
+width: 192px;
+height: 21px;
+left: 288px;
+top: 222px;
+
+background: white;
+}
+#twelve1{
+    position: absolute;
+width: 192px;
+height: 21px;
+left: 288px;
+top: 269px;
+
+background: white;
+
+}
+#native1{
+    position: absolute;
+    width: 192px;
+    height: 21px;
+    left: 288px;
+    top: 363px;
+    
+    background: white;
+}
+#hobby1{
+    position: absolute;
+width: 192px;
+height: 21px;
+left: 288px;
+top: 457px;
+
+background: white;
+}
+.btn{
+    position: absolute;
+left: 355px;
+top: 30px;
+background-color:#F95800;;
+}
+.btn:hover{
+    background-color: white;
+}
+#male{
+    position: absolute;
+width: 11px;
+height: 13px;
+left: 288px;
+top: 181px;
+
+background: white;
+
+}
+#female{
+    position: absolute;
+    width: 11px;
+    height: 13px;
+    left: 394px;
+    top: 181px;
+    
+    background: white;
+}
+.male{
+    position: absolute;
+    left: 310px;
+    top: 175px;
+    
+    background: white;
+}
+.female{
+    position: absolute;
+    left: 418px;
+    top: 175px;
+    
+    background: white;
+}
+#degree1{
+    position: absolute;
+width: 192px;
+height: 21px;
+left: 288px;
+top: 313px;
+
+background: #C4C4C4;
+
+}
+#degree1 select:hover{
+    background-color:#F95800 ;
+}
+#married {
+    position: absolute;
+    width: 11px;
+    height: 13px;
+    left: 288px;
+    top: 400px;
+    
+    background: white;
+}
+#single {
+    position: absolute;
+    width: 11px;
+    height: 13px;
+    left: 394px;
+    top: 400px;
+    
+    background: white;
+}
+.married{
+    position: absolute;
+    left: 310px;
+    top: 400px;
+    
+    background: white;
+}
+.single{
+    position: absolute;
+    left: 418px;
+    top: 400px;
+    
+    background: white;
+}
+.btn2{
+    position: absolute;
+width: 263px;
+height: 66px;
+left: 130px;
+top: 100px;
+background: #FF0A62;
+border-radius: 34px;
+display: none;
+}
+.btn3{
+    position: absolute;
+width: 263px;
+height: 66px;
+left: 130px;
+top: 250px;
+background: #FF0A62;
+border-radius: 34px;
+display: none;
+}
+
+.mytable{
+position: absolute;
+left:625px;
+top:44px;
+    border-collapse: collapse;
+margin:10px;
+padding: 10px;
+font-size: 0.9em;
+min-width: 730px;
+color:white;
+border-radius:5px 5px 0 0;
+overflow: hidden;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+display: none;
+}
+.mytable thead tr{
+    background-color:black;
+    text-align: left;
+    font-weight: bold;
+}
+.mytable th,.mytable td{
+    padding: 12px 15px;
+
+}
+.mytable tbody tr{
+    border-bottom: 1px solid black;
+
+}
+.mytable tbody tr:nth-of-type(even){
+    background-color: white;
+    color: black;
+}
+.tablediv{
+    background-color: rgba(0, 0, 0, 0.39);
+}
